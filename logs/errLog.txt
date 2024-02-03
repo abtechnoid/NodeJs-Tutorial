@@ -1,0 +1,15 @@
+20240126	12:34:42	d7c44237-26a1-46b9-9094-60cffe4544f6	Error:Not allowed by CORS
+20240126	13:25:40	c90d8323-55ce-4f6d-910f-6da88f516dd5	SyntaxError:Unexpected token } in JSON at position 19
+20240126	22:02:43	49d60d33-e075-40d0-9ab3-08a8a356ee19	ReferenceError:history is not defined
+20240126	22:02:51	fd19eeee-a15b-4e02-a4b3-cef410d89800	ReferenceError:history is not defined
+20240126	22:02:55	67976dd4-0830-417b-9f08-bad16cf560e5	ReferenceError:history is not defined
+20240126	22:03:12	29c2df98-3b65-4120-a9ae-0c0a704d121c	ReferenceError:history is not defined
+20240126	22:04:15	94a919e5-dc1f-4796-97c1-e50b224befee	ReferenceError:history is not defined
+20240126	22:04:15	b31bb30e-6eeb-4e56-908a-e837606bbced	ReferenceError:history is not defined
+20240126	22:04:16	50ee0062-c4fb-48df-9a14-4524e79dc34a	ReferenceError:history is not defined
+20240126	22:12:33	542abeb7-a046-44a2-887f-9d334159b41d	ReferenceError:history is not defined
+20240126	22:13:38	11a3c4ab-8166-4c6c-9ebf-013938aa6604	ReferenceError:history is not defined
+20240126	22:18:05	f7d628b2-6068-4f7b-9941-bdc7dd2f8f4b	ReferenceError:history is not defined
+20240126	22:18:27	42ae09c8-c2ea-4e1f-857d-10f1c588759d	ReferenceError:history is not defined
+20240126	22:18:31	36b1dca7-8934-4726-ace4-89aaabb312fa	ReferenceError:history is not defined
+20240203	07:25:54	ce0c4ba9-14a6-4edd-b392-de4d307e4295	TypeError:authHeader?.startWith is not a function
